@@ -54,3 +54,19 @@ a:hover{
 .maintext
 {
 }
+.aboutleft
+{
+display: flex;
+justify-content: left;
+}
+.aboutright
+{
+display: flex;
+text-align: right;
+}
+.about
+{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
